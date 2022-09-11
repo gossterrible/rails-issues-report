@@ -1,0 +1,10 @@
+{
+  "name": "rails-issues-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bahati Boniface <bahatitadjuidje@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.4"
+  }
+}
